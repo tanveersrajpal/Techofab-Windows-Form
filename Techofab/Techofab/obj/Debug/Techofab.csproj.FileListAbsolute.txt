@@ -1,0 +1,10 @@
+C:\Users\64225\source\repos\Techofab\Techofab\bin\Debug\Techofab.exe.config
+C:\Users\64225\source\repos\Techofab\Techofab\bin\Debug\Techofab.exe
+C:\Users\64225\source\repos\Techofab\Techofab\bin\Debug\Techofab.pdb
+C:\Users\64225\source\repos\Techofab\Techofab\obj\Debug\Techofab.csprojAssemblyReference.cache
+C:\Users\64225\source\repos\Techofab\Techofab\obj\Debug\Techofab.Form1.resources
+C:\Users\64225\source\repos\Techofab\Techofab\obj\Debug\Techofab.Properties.Resources.resources
+C:\Users\64225\source\repos\Techofab\Techofab\obj\Debug\Techofab.csproj.GenerateResource.cache
+C:\Users\64225\source\repos\Techofab\Techofab\obj\Debug\Techofab.exe
+C:\Users\64225\source\repos\Techofab\Techofab\obj\Debug\Techofab.pdb
+C:\Users\64225\source\repos\Techofab\Techofab\obj\Debug\Techofab.SearchWindow.resources

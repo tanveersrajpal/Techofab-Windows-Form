@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Techofab", "Techofab\Techofab.csproj", "{DB11B2F3-AB32-439D-9916-4503CDAD33FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB11B2F3-AB32-439D-9916-4503CDAD33FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB11B2F3-AB32-439D-9916-4503CDAD33FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB11B2F3-AB32-439D-9916-4503CDAD33FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB11B2F3-AB32-439D-9916-4503CDAD33FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91678BB0-3751-4575-ADC4-EBC9FA26D28B}
+	EndGlobalSection
+EndGlobal
